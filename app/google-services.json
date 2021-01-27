@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "720897041335",
+    "firebase_url": "https://fir-events-example.firebaseio.com",
+    "project_id": "fir-events-example",
+    "storage_bucket": "fir-events-example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720897041335:android:e762b68b6c23e49660be32",
+        "android_client_info": {
+          "package_name": "com.pero.crashexampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720897041335-e74lqa88ti84gb2tk9fcvr0i8kngv5k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcW5IWRg6Qnl4i1mo0BrpFTt5WjwFuY_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720897041335-e74lqa88ti84gb2tk9fcvr0i8kngv5k6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720897041335:android:54dea4462dfbbf48",
+        "android_client_info": {
+          "package_name": "com.pero.firebasemissingevents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720897041335-e74lqa88ti84gb2tk9fcvr0i8kngv5k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcW5IWRg6Qnl4i1mo0BrpFTt5WjwFuY_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720897041335-e74lqa88ti84gb2tk9fcvr0i8kngv5k6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

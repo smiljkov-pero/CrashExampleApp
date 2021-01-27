@@ -8,6 +8,6 @@ class ExampleApplication : Application() {
         super.onCreate()
 
         var s: String? = null
-        s!!.length
+        //s!!.length
     }
 }
